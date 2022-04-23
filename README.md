@@ -2,7 +2,7 @@
 - 👀 I’m interested in deeplearning, computer vision
 - 🌱 I’m currently learning person re-identification
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me tqwprivateemail@163.com
 
 <!---
 davidtqw/davidtqw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
